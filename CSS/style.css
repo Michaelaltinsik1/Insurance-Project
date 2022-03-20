@@ -337,7 +337,7 @@ footer img{
     "nav";
 }
 .contact-header article{
-    background-image: url(/image/man-baby.png);
+    background-image: url(../image/man-baby.png);
     background-repeat: no-repeat;
     background-size: 55%;
     background-position: bottom right;
@@ -426,7 +426,7 @@ label{
     margin-bottom: 5rem;
 }
 .contact-footer{
-    background-image: url(/image/map.png);
+    background-image: url(../image/map.png);
     background-repeat: no-repeat;
     background-size: 300%;
     background-position: center;
